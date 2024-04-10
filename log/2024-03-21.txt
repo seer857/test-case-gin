@@ -1,0 +1,7 @@
+{"level":"INFO","time":"2024-03-21 09:53:22","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 11:07:33","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 11:25:29","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 15:01:51","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 15:44:24","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 16:45:04","msg":"server run success on {address 15 0 :3001 <nil>}"}
+{"level":"INFO","time":"2024-03-21 16:45:39","msg":"server run success on {address 15 0 :3001 <nil>}"}
